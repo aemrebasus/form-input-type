@@ -1,0 +1,25 @@
+{
+  "name": "form-input-type",
+  "version": "1.0.0",
+  "description": "Form input properties type to support autocompletion. ",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aemrebasus/form-input-type.git"
+  },
+  "keywords": [
+    "input",
+    "type",
+    "autocomplete",
+    "type"
+  ],
+  "author": "Ahmet Emrebas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aemrebasus/form-input-type/issues"
+  },
+  "homepage": "https://github.com/aemrebasus/form-input-type#readme"
+}
